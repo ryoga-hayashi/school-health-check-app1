@@ -31,10 +31,6 @@
 - HTML / CSS / JavaScript
 - Web Audio API
 
-## 画面イメージ
-
-![アプリ画面](images/application-screen.png)
-
 ## 実行方法
 
 ### 1. ファイルをダウンロード
